@@ -7,3 +7,4 @@ vendor_hal_attribute(oplus_project)
 attribute hal_dms;
 attribute hal_dms_client;
 attribute hal_dms_server;
+attribute vendor_service;
