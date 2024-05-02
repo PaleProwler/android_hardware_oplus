@@ -21,7 +21,6 @@ persist.sys.oplus.                                    u:object_r:exported_system
 persist.sys.state.                                    u:object_r:exported_system_prop:s0
 persist.sys.state.is.otest.running                    u:object_r:exported_system_prop:s0
 persist.vendor.aps.debug.framenum                     u:object_r:exported_system_prop:s0
-persist.vendor.apsSN.algo.enable                      u:object_r:exported_system_prop:s0
 persist.vendor.arcsoft.sn.dumprawinfo                 u:object_r:exported_system_prop:s0
 persist.vendor.facebeauty.dump                        u:object_r:exported_system_prop:s0
 persist.vendor.fastrpc.                               u:object_r:exported_system_prop:s0
